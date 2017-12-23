@@ -1,22 +1,50 @@
-# popcalendar
+Popcalendar
+================
 
-## Epic
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy)
 
-You’ve been asked to build a web page that will be used to publish information about different events in Berlin (think  meetup.com). Every event has a date, start & end time, place and list of pre-defined discussion topics.
+This application was generated with the [rails_apps_composer](https://github.com/RailsApps/rails_apps_composer) gem
+provided by the [RailsApps Project](http://railsapps.github.io/).
 
-## Stories
+Rails Composer is supported by developers who purchase our RailsApps tutorials.
 
-1. As a user, I can browse events.
-2. As a user, I can filter events by:
-  - city
-  - range of start date/times
-  - topic of interest
-3. As a user, I can save a search filter and re-use it in the future.
-4. As a user, I get notified every time a new event is added that matches any of my saved filters. If I am browsing the site at the time, I would like an instant notification, otherwise, it should arrive by email.
+Problems? Issues?
+-----------
 
-## Comments
+Need help? Ask on Stack Overflow with the tag 'railsapps.'
 
-1. Simplicity and clarity are above all
-2. Interpret any uncertainties as you see fit - we can discuss the assumptions you make later
-3. Remember about good coding style and best practices, but don't write "textbook" code
-4. You can use any front-end as this test is focused on back-end (RoR) skills and we realise not everyone loves front-end :-). React is a plus
+Your application contains diagnostics in the README file. Please provide a copy of the README file when reporting any issues.
+
+If the application doesn't work as expected, please [report an issue](https://github.com/RailsApps/rails_apps_composer/issues)
+and include the diagnostics.
+
+Ruby on Rails
+-------------
+
+This application requires:
+
+- Ruby 2.4.2
+- Rails 5.1.4
+
+Learn more about [Installing Rails](http://railsapps.github.io/installing-rails.html).
+
+Getting Started
+---------------
+
+Documentation and Support
+-------------------------
+
+Issues
+-------------
+
+Similar Projects
+----------------
+
+Contributing
+------------
+
+Credits
+-------
+
+License
+-------
